@@ -165,4 +165,3 @@ $ git push origin :hotfix-id                        // deletes the remote branch
 ## Workflow Diagram
 
 ![Git Branching Model](https://github.com/reidwilliams723/documentation/blob/master/gitflow-model.png)  
-*[gitflow-model.src.key](http://cl.ly/3V1b0c2F1H4024173S1M)*
